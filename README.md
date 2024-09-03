@@ -28,8 +28,8 @@ caps: This function capitalizes the text in the input field on every key release
 
 A splash screen displays for a few seconds before the main window appears.
 It uses a GIF image
-</ br>
-<center> ![Image description](./Garry_AI.gif) </center>
+
+![Image description](./Garry_AI.gif)
 
 #### Main Window:
 
