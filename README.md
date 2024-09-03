@@ -45,6 +45,10 @@ repo_id: The ID of the LLM repository you want to use.
 gif_image (optional): The path to your splash screen GIF.
 Run the script. The splash screen will display for a few seconds, followed by the main window where you can interact with the LLM.
 
+## Screen-Shots of the project
+
+![Image description](./Garry_AI.gif)
+
 ## Note:
 
 This code provides a basic framework. You can customize it further by adding features like saving conversation history, changing font styles, implementing different functionalities for specific user inputs, etc.
