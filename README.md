@@ -51,6 +51,10 @@ Run the script. The splash screen will display for a few seconds, followed by th
 
 
 
+https://github.com/user-attachments/assets/2bc8f72d-5beb-46b9-b3bc-b9a329d1a127
+
+
+
 ## Note:
 
 This code provides a basic framework. You can customize it further by adding features like saving conversation history, changing font styles, implementing different functionalities for specific user inputs, etc.
