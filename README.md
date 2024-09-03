@@ -27,7 +27,9 @@ caps: This function capitalizes the text in the input field on every key release
 #### Splash Screen:
 
 A splash screen displays for a few seconds before the main window appears.
-It uses a GIF image (replace the path with your desired GIF).
+It uses a GIF image
+</ br>
+<center> ![Image description](./Garry_AI.gif) </center>
 
 #### Main Window:
 
@@ -47,7 +49,7 @@ Run the script. The splash screen will display for a few seconds, followed by th
 
 ## Screen-Shots of the project
 
-![Image description](./Garry_AI.gif)
+
 
 ## Note:
 
