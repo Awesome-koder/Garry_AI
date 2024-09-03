@@ -49,11 +49,11 @@ Run the script. The splash screen will display for a few seconds, followed by th
 
 ## Screen-Shots of the project
 
-![Image description](./image assets/ml_que.png)
-![Image description](./image assets/ml-ans1.png)
-![Image description](./image assets/ml-ans2.png)
-![Image description](./image assets/kpi.png)
-![Image description](./image assets/rev_code.png)
+![Image description](image assets/ml_que.png)
+![Image description](image assets/ml-ans1.png)
+![Image description](image assets/ml-ans2.png)
+![Image description](image assets/kpi.png)
+![Image description](image assets/rev_code.png)
 
 
 
