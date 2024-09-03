@@ -9,7 +9,9 @@ langchain-huggingface to connect to the LLM hosted on Hugging Face Hub.
 ## API Key and Repository Setup:
 
 sec_key: Replace this with your own Hugging Face Hub API key.
+
 repo_id: This specifies the LLM repository ID on Hugging Face. Update this if you're using a different model.
+
 llm: This object handles communication with the LLM.
 
 ## GUI Functions:
